@@ -11,7 +11,6 @@ I'm a backend developer with solid frontend background. 20+ years of experience 
 
 ## About me
 
-- 🔭 I’m currently helping in social focused IOT projects
 - 🌱 One day without get new skills it's a lost day, check my ever growing pin of readed books -> https://pin.it/400hk2j
 - 👯 I'm looking to collaborate, lonely rockstar developer isn't my style
 - 💬 Ask me about Adobe Illustrator, I spend many hours drawing with vectors
