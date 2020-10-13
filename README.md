@@ -4,17 +4,17 @@
 
 # Hi there! I'm Carlos Correa
 
-I'm a backend developer with solid frontend background. 20+ years of experience in education, financial & telecommunications sectors. My deployments ranging from large enterprise systems to resources-constrained devices.
+I'm a backend developer with solid frontend background. 20+ years of experience in education, financial & telecommunications sectors. My deployments ranging from large enterprise systems to resources-constrained devices. If you require any further information, feel free to contact me.
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/correacarlos/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloscorreainfo@gmail.com)
 
 ## About me
 
-- 🌱 One day without get new skills it's a lost day, check my ever growing pin of [readed books](https://pin.it/400hk2j) 
+- 🌱 One day without get new skills it's a lost day, check my ever growing pin of [readed books](https://pin.it/400hk2j)
 - 👯 I'm looking to collaborate, lonely rockstar developer isn't my style
 - 💬 Ask me about Adobe Illustrator, I spend many hours drawing with vectors!
-- 📫 How to reach me: first check my [linkedin](https://www.linkedin.com/in/correacarlos/), and (only if it convinces you)
+- 📫 How to reach me: first check my [Linkedin](https://www.linkedin.com/in/correacarlos/), and (only if it convinces you)
   drop me a line at carloscorreainfo@gmail.com
 - ⚡ Fun fact: I have a second life as social events cameraman and video editor
 
