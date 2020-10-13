@@ -11,10 +11,10 @@ I'm a backend developer with solid frontend background. 20+ years of experience 
 
 ## About me
 
-- 🌱 One day without get new skills it's a lost day, check my ever growing pin of readed books -> https://pin.it/400hk2j
+- 🌱 One day without get new skills it's a lost day, check my ever growing pin of [readed books](https://pin.it/400hk2j) 
 - 👯 I'm looking to collaborate, lonely rockstar developer isn't my style
-- 💬 Ask me about Adobe Illustrator, I spend many hours drawing with vectors
-- 📫 How to reach me: first check my [linkedin](https://www.linkedin.com/in/correacarlos/), and only if it convinces you
+- 💬 Ask me about Adobe Illustrator, I spend many hours drawing with vectors!
+- 📫 How to reach me: first check my [linkedin](https://www.linkedin.com/in/correacarlos/), and (only if it convinces you)
   drop me a line at carloscorreainfo@gmail.com
 - ⚡ Fun fact: I have a second life as social events cameraman and video editor
 
